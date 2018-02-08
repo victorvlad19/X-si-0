@@ -1,0 +1,3 @@
+C:/Users/vves/CLionProjects/X-si-0/cmake-build-debug/CMakeFiles/X_si_0.dir
+C:/Users/vves/CLionProjects/X-si-0/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vves/CLionProjects/X-si-0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
